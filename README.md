@@ -39,20 +39,17 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 **To measure IN or Isc:**
 
-![EXP 5 DAI 2](https://github.com/user-attachments/assets/9a21bce2-9699-427e-af6d-ea76a88a2845)
+![5 dai](https://github.com/user-attachments/assets/bbb355b3-c4d7-440a-ace7-91778493571d)
 
-
- 
 **Norton’s equivalent circuit:**
 
-![EXP 5 DAI 3](https://github.com/user-attachments/assets/4a2e2cf5-fb96-4283-995f-8367cd2c1a89)
+![5 dai 1 1](https://github.com/user-attachments/assets/5e9ae6e6-f842-42f6-9952-2af5b36fef50)
 
 **TABULAR COLUMN:1**
 
 To measure I L
 
-![EXP 5 TAB 1](https://github.com/user-attachments/assets/6ca00a3e-80bb-486b-84e2-6f3fc4d054ff)
-
+![5 tab 1](https://github.com/user-attachments/assets/e57fadd8-a833-4e51-a577-807bf713df20)
 
 **TABULAR COLUMN:2**
 
@@ -71,16 +68,15 @@ To measure IN or Isc
 	
 **MODEL CALCULATION:**
 
-![EXP 5 MODAL](https://github.com/user-attachments/assets/6b880a82-0632-46f5-8bac-613dfbc1949e)
+![5 tab](https://github.com/user-attachments/assets/a5b2b918-53b0-442a-a4eb-283826128481)
 
 **CALCULATION:**
 
 **Verification of Norton’s theorem:**
 
-![EXP 5 CAL](https://github.com/user-attachments/assets/5fd101df-802e-4915-8f4c-159462a9c51c)
+![5 cal](https://github.com/user-attachments/assets/70007db5-4c80-4d79-9496-c1ff5ed38e6f)
 
-
-![EXP 5 CAL 1](https://github.com/user-attachments/assets/5f43a2e9-11f5-4e7f-9106-fbf887c5dc32)
+![5 cal 1](https://github.com/user-attachments/assets/3ea632a8-0dae-4caa-8bd2-a5e342c50127)
 
 
  
@@ -118,9 +114,7 @@ To measure IN or Isc
 12.	Theoretically verify the Norton’s theorem.
 
 
-![EXP 5 MARK](https://github.com/user-attachments/assets/63df7436-edc7-44de-b467-bb2897ee2ce2)
-
-
+![5 ms](https://github.com/user-attachments/assets/efe7e8bb-b10a-4524-a559-2525bd12602a)
 
 
 **RESULT:**
